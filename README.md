@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Anunay Argha – Turning Ideas into Stunning Digital Realities</h1>
 <h3 align="center">A Frontend-Focused, Full-Stack Ready - Passionate about transforming visions into intuitive, meaningful, and unforgettable digital experiences.</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="My GIF" style="border-radius: 10px; width: 500px;" align="right"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="My GIF" style="border-radius: 10px; width: 400px;" align="right"/>
 
 - 🔭 I’m currently working on **Next.js Applications**
 
