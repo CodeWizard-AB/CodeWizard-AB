@@ -1,3 +1,5 @@
+![Welcome Banner](https://media.licdn.com/dms/image/v2/D5616AQFXvhwNOYYEWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716017894636?e=1745452800&v=beta&t=ZlRaWteiXUrC5JEWL-IYv3gHC58sts1Qs_QALXLpId4)
+
 <h1 align="center">Hi 👋, I'm Anunay Argha – Turning Ideas into Stunning Digital Realities</h1>
 <h3 align="center">A Frontend-Focused, Full-Stack Ready - Passionate about transforming visions into intuitive, meaningful, and unforgettable digital experiences.</h3>
 
