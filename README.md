@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFXvhwNOYYEWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716017894636?e=1745452800&v=beta&t=ZlRaWteiXUrC5JEWL-IYv3gHC58sts1Qs_QALXLpId4" alt="Welcome Banner">
+<img src="https://res.cloudinary.com/ddp4oashl/image/upload/v1744609403/1716017894636_1_pzuvvq.jpg" alt="Welcome Banner">
 
 
 <h1 align="center">Hi 👋, I'm Anunay Argha – Turning Ideas into Stunning Digital Realities</h1>
