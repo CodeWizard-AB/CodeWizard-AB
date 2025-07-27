@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript | React.js | Next.js**
 
-- 📫 How to reach me **anunayargha@gmail.com**
+- 📫 How to reach me **anunay@anunayargha.com**
 
 - ⚡ Fun fact **I am over serious**
 
