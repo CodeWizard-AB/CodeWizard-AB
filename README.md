@@ -30,33 +30,33 @@
 ## 🧰 Tech Stack & Tools
 
 <div>
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=express&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=appwrite&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=npm&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=notion&theme=dark" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=appwrite&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=npm&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="60" height="60"/>
+<img src="https://skillicons.dev/icons?i=notion&theme=dark" width="60" height="60"/>
 </div> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-ab&show_icons=true&locale=en&layout=compact" alt="codewizard-ab" /></p>
