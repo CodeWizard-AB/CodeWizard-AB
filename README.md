@@ -27,27 +27,37 @@
 <a href="https://instagram.com/ab.argh_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab.argh_a" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+## 🧰 Tech Stack & Tools
+ 
+<table width="100%"><tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="100" height="100"/><br/><b>HTML5</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="100" height="100"/><br/><b>CSS3</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="100" height="100"/><br/><b>JavaScript</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="100" height="100"/><br/><b>TypeScript</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="100" height="100"/><br/><b>Python</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="100" height="100"/><br/><b>React</b></td>
+</tr><tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="100" height="100"/><br/><b>Next.js</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="100" height="100"/><br/><b>Tailwind CSS</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="100" height="100"/><br/><b>Redux</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="100" height="100"/><br/><b>Node.js</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="100" height="100"/><br/><b>Express</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="100" height="100"/><br/><b>NestJS</b></td>
+</tr><tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="100" height="100"/><br/><b>MongoDB</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="100" height="100"/><br/><b>PostgreSQL</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="100" height="100"/><br/><b>Prisma</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="100" height="100"/><br/><b>Supabase</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="100" height="100"/><br/><b>Firebase</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=appwrite&theme=dark" width="100" height="100"/><br/><b>Appwrite</b></td>
+</tr><tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="100" height="100"/><br/><b>Git</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="100" height="100"/><br/><b>VS Code</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="100" height="100"/><br/><b>Postman</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="100" height="100"/><br/><b>Vercel</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="100" height="100"/><br/><b>npm</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="100" height="100"/><br/><b>Chart.js</b></td>
+</tr></table>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-ab&show_icons=true&locale=en&layout=compact" alt="codewizard-ab" /></p>
