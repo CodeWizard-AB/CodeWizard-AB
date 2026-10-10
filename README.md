@@ -30,7 +30,7 @@
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,tailwind,redux,nodejs,express,nestjs,mongodb,postgres,redis,prisma,supabase,firebase,appwrite,git,vscode,postman,vercel,npm,vite,wordpress,notion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,tailwind,redux,nodejs,express,nestjs,fastapi,mongodb,postgres,redis,prisma,supabase,firebase,appwrite,git,vscode,postman,vercel,npm,vite,wordpress,notion&theme=dark" />
 </p> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-ab&show_icons=true&locale=en&layout=compact" alt="codewizard-ab" /></p>
